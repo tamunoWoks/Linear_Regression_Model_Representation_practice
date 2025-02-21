@@ -14,7 +14,8 @@ To run this notebook, ensure you have the following dependencies installed:
 - Jupyter Notebook
 - NumPy
 - Matplotlib  
-You can install the required packages using:
+
+**You can install the required packages using:**
 ```bash
 pip install numpy matplotlib jupyter
 ```
