@@ -25,3 +25,9 @@ The notebook uses a small dataset containing two data points:
 |----------------- |-----------------------|
 |1.0|300.0|
 |2.0|500.0|
+### Notebook Structure
+- **Introduction:** Explanation of linear regression and its importance.
+- **Data Representation:** Loading and displaying the dataset.
+- **Visualization:** Plotting the data to observe trends.
+- **Mathematical Representation:** Understanding the hypothesis function.
+- **Code Implementation:** Writing Python code to perform linear regression.
