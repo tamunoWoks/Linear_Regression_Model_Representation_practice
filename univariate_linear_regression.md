@@ -8,3 +8,9 @@ This Jupyter Notebook provides a step-by-step implementation of a simple linear 
 - Use of Matplotlib for data visualization
 - Training data representation and basic exploration
 - Plotting data points to visualize the relationship between the variables
+### Requirements
+To run this notebook, ensure you have the following dependencies installed:
+- Python (>=3.7)
+- Jupyter Notebook
+- NumPy
+- Matplotlib
