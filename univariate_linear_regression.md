@@ -38,3 +38,5 @@ To run the notebook:
 - Run the following command to start Jupyter Notebook:
 - jupyter notebook
 - Open the [univariate_linear_regression.ipynb](https://github.com/tamunoWoks/Linear_Regression_Model_Representation_practice/blob/main/univariate_linear_regression.ipynb) file and execute the cells sequentially.
+### Author
+**Tamunosaki Wokoma**
