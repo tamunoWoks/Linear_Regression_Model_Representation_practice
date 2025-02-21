@@ -22,6 +22,6 @@ pip install numpy matplotlib jupyter
 ### Dataset
 The notebook uses a small dataset containing two data points:
 |Size (1000 sqft)|Price (1000s of dollars)|
-|_________________ | _______________________|
+|----------------- |-----------------------|
 |1.0|300.0|
 |2.0|500.0|
