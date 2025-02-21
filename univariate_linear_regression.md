@@ -13,7 +13,7 @@ To run this notebook, ensure you have the following dependencies installed:
 - Python (>=3.7)
 - Jupyter Notebook
 - NumPy
-- Matplotlib
+- Matplotlib  
 You can install the required packages using:
 ```bash
 pip install numpy matplotlib jupyter
