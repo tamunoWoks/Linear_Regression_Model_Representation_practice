@@ -18,3 +18,10 @@ To run this notebook, ensure you have the following dependencies installed:
 ```
 pip install numpy matplotlib jupyter
 ```
+### Dataset
+The notebook uses a small dataset containing two data points:
+|Size (1000 sqft)|Price (1000s of dollars)|
+|----------------- |-----------------------|
+|1.0|300.0|
+|2.0|500.0|
+This dataset helps illustrate how the cost function behaves for a given set of parameters.
