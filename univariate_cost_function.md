@@ -41,4 +41,4 @@ To run the notebook:
   ```
   jupyter notebook
   ```
-- Open the Univariate_cost_function.ipynb file and execute the cells sequentially.
+- Open the [univariate_cost_function.ipynb](https://github.com/tamunoWoks/Linear_Regression_Model_Representation_practice/blob/main/univariate_cost_function.ipynb) file and execute the cells sequentially.
