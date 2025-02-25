@@ -26,3 +26,10 @@ The notebook uses a small dataset containing two data points:
 |2.0|500.0|  
 
 This dataset helps illustrate how the cost function behaves for a given set of parameters.
+### Notebook Structure
+- **Introduction:** Overview of the cost function in linear regression.
+- **Problem Statement:** Predicting house prices based on size.
+- **Data Representation:** Loading and displaying the dataset.
+- **Visualization:** Using plotting utilities to explore cost function behavior.
+- **Mathematical Representation:** Understanding the cost function formula.
+- **Code Implementation:** Writing Python code to compute and visualize the cost function.
