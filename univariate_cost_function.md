@@ -33,3 +33,12 @@ This dataset helps illustrate how the cost function behaves for a given set of p
 - **Visualization:** Using plotting utilities to explore cost function behavior.
 - **Mathematical Representation:** Understanding the cost function formula.
 - **Code Implementation:** Writing Python code to compute and visualize the cost function.
+### Running the Notebook
+To run the notebook:
+- Clone this repository or download the notebook file.
+- Open a terminal and navigate to the notebook directory.
+- Run the following command to start Jupyter Notebook:
+  ```
+  jupyter notebook
+  ```
+- Open the Univariate_cost_function.ipynb file and execute the cells sequentially.
