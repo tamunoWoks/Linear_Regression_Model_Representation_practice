@@ -9,3 +9,9 @@ This Jupyter Notebook explores and implements the gradient descent algorithm for
 - Use of NumPy for numerical computations
 - Use of Matplotlib for data visualization
 - Local plotting routines for enhanced visualization
+### Requirements
+To run this notebook, ensure you have the following dependencies installed:
+- Python (>=3.7)
+- Jupyter Notebook
+- NumPy
+- Matplotlib
