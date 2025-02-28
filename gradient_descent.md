@@ -15,3 +15,7 @@ To run this notebook, ensure you have the following dependencies installed:
 - Jupyter Notebook
 - NumPy
 - Matplotlib
+**You can install the required packages using:**
+```
+pip install numpy matplotlib jupyter
+```
