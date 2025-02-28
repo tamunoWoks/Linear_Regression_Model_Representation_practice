@@ -1,6 +1,6 @@
 # Gradient Descent for Linear Regression
 ### Overview
-This Jupyter Notebook explores and implements the gradient descent algorithm for optimizing the parameters of a univariate linear regression model. The goal is to find the best values for *`w`* and *`b`*  by minimizing the cost function using an iterative approach. This notebook is useful for those who want to understand how gradient descent works and how it can be applied to train a linear regression model.
+This Jupyter [Notebook](https://github.com/tamunoWoks/Linear_Regression_Model_Representation_practice/blob/main/gradient_descent.ipynb) explores and implements the gradient descent algorithm for optimizing the parameters of a univariate linear regression model. The goal is to find the best values for *`w`* and *`b`*  by minimizing the cost function using an iterative approach. This notebook is useful for those who want to understand how gradient descent works and how it can be applied to train a linear regression model.
 ### Features
 - Introduction to gradient descent for linear regression
 - Implementation of the cost function and its gradient
