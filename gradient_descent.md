@@ -28,3 +28,10 @@ The notebook uses a small dataset containing two data points:
 |2.0|500.0|  
 
 This dataset helps illustrate how gradient descent updates parameters to minimize the cost function.
+### Notebook Structure
+- **Introduction:** Overview of gradient descent and its role in optimization.
+- **Problem Statement:** Predicting house prices based on size.
+- **Data Representation:** Loading and displaying the dataset.
+- **Mathematical Background:** Explanation of the cost function and gradient descent.
+- **Code Implementation:** Writing Python code to implement gradient descent.
+- **Visualization:** Plotting contour maps and gradient descent steps.
