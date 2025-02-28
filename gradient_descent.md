@@ -35,7 +35,7 @@ This dataset helps illustrate how gradient descent updates parameters to minimiz
 - **Mathematical Background:** Explanation of the cost function and gradient descent.
 - **Code Implementation:** Writing Python code to implement gradient descent.
 - **Visualization:** Plotting contour maps and gradient descent steps.
-### ### Running the Notebook
+### Running the Notebook
 To run the notebook:
 - Clone this repository or download the notebook file.
 - Open a terminal and navigate to the notebook directory.
