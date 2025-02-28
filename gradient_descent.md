@@ -44,3 +44,5 @@ To run the notebook:
   jupyter notebook
   ```
 - Open the [gradient_descent.ipynb](https://github.com/tamunoWoks/Linear_Regression_Model_Representation_practice/blob/main/gradient_descent.ipynb) file and execute the cells sequentially.
+### Author
+**Tamunosaki Wokoma**
