@@ -14,3 +14,8 @@ This repository is a practice repository for representing Linear Regression Mode
   - [Code](https://github.com/tamunoWoks/Linear_Regression_Model_Representation_practice/blob/main/gradient_descent.ipynb)
   - [ReadMe file](https://github.com/tamunoWoks/Linear_Regression_Model_Representation_practice/blob/main/gradient_descent.md)
 ### Summary of the Three Notebooks
+1. **Linear Regression Model Representation with One Variable**
+This notebook introduces the concept of simple linear regression and implements the hypothesis function 
+𝑓𝑤,𝑏(𝑥)=𝑤𝑥+𝑏.
+It provides a basic understanding of how a linear model represents relationships in data.  
+The dataset consists of house sizes and prices, and the notebook includes visualizations to illustrate the linear trend.
