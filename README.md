@@ -19,5 +19,5 @@ This notebook introduces the concept of simple linear regression and implements 
 `𝑓𝑤,𝑏(𝑥)=𝑤𝑥+𝑏`.  
 It provides a basic understanding of how a linear model represents relationships in data.  
 The dataset consists of house sizes and prices, and the notebook includes visualizations to illustrate the linear trend.
-2. **Univariate Cost Function for Linear Regression:**
+2. **Univariate Cost Function for Linear Regression:**  
 This notebook focuses on the cost function used in linear regression, which measures the error between predicted and actual values. It explains the mathematical foundation and implements the cost function using NumPy. The notebook also visualizes how different model parameters affect the cost, helping to build intuition for optimization.
