@@ -21,5 +21,5 @@ It provides a basic understanding of how a linear model represents relationships
 The dataset consists of house sizes and prices, and the notebook includes visualizations to illustrate the linear trend.
 2. **Univariate Cost Function for Linear Regression:**  
 This notebook focuses on the cost function used in linear regression, which measures the error between predicted and actual values. It explains the mathematical foundation and implements the cost function using NumPy. The notebook also visualizes how different model parameters affect the cost, helping to build intuition for optimization.
-3. **Gradient Descent for Linear Regression:**
+3. **Gradient Descent for Linear Regression:**  
 This notebook implements the gradient descent algorithm to optimize the parameters of a linear regression model. It explains how gradient descent iteratively updates the vectors `w` and `𝑏` to minimize the cost function. Visualizations demonstrate the step-by-step optimization process, making it easier to understand how gradient descent works in practice.
