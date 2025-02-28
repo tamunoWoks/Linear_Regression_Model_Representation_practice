@@ -1,6 +1,6 @@
 # Univariate Cost Function for Linear Regression
 ### Overview
-This Jupyter Notebook explores and implements the cost function for univariate linear regression. The cost function is a crucial component in training a linear regression model, helping to measure the difference between predicted and actual values. This notebook is ideal for those looking to understand how the cost function works and how it can be visualized in a simple linear regression setup.
+This Jupyter [Notebook](https://github.com/tamunoWoks/Linear_Regression_Model_Representation_practice/blob/main/univariate_cost_function.ipynb) explores and implements the cost function for univariate linear regression. The cost function is a crucial component in training a linear regression model, helping to measure the difference between predicted and actual values. This notebook is ideal for those looking to understand how the cost function works and how it can be visualized in a simple linear regression setup.
 ### Features
 - Implementation of the cost function for linear regression
 - Use of NumPy for numerical computations
